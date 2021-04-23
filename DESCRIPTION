@@ -39,7 +39,6 @@ Depends:
     tidytext,
     ggalt,
     ragg, 
-    systemfonts,
-    rtweet
+    systemfonts
 Remotes: 
     charlie86/spotifyr
