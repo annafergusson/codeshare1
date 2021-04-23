@@ -31,6 +31,7 @@ Depends:
     gtrendsR,
     ggimage,
     htmltools,
+    systemfonts,
     iNZightPlots, 
     patchwork,
     spotifyr,
@@ -38,7 +39,6 @@ Depends:
     ggpage,
     tidytext,
     ggalt,
-    ragg, 
-    systemfonts
+    ragg
 Remotes: 
     charlie86/spotifyr
