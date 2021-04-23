@@ -29,10 +29,8 @@ Depends:
     magick,
     curl,
     gtrendsR,
-    udsdata,
     ggimage,
     htmltools,
-    systemfonts,
     iNZightPlots, 
     patchwork,
     spotifyr,
@@ -43,5 +41,4 @@ Depends:
     ragg, 
     rtweet
 Remotes: 
-    annafergusson/udsdata,
     charlie86/spotifyr
