@@ -40,7 +40,8 @@ Depends:
     ggpage,
     tidytext,
     ggalt,
-    ragg
+    ragg, 
+    rtweet
 Remotes: 
     annafergusson/udsdata,
     charlie86/spotifyr
